@@ -296,4 +296,132 @@ export const privacyScreenProducts: ProductItem[] = [
       },
     ],
   },
+{
+    slug: "metal-privacy-screen-planter-box-geometric-slat-panel",
+    title: "Metal Privacy Screen Planter Box with Geometric Slat Panel",
+    category: "Metal Privacy Screen",
+    template: "standard",
+    subtitle: "GAP01HX-L3P4F1 for outdoor projects and wholesale supply.",
+    description: "This metal privacy screen planter box combines a decorative geometric slat panel with a stable planter base, creating a practical outdoor divider for patios, gardens, terraces, courtyards, and commercial landscape spaces. The tall screen helps define outdoor areas while allowing light and airflow through the patterned panel. The integrated planter box can be filled with greenery, climbing plants, or seasonal flowers to soften the look and improve privacy. Designed for outdoor use, it supports custom size, color, surface finish, and OEM packaging for retail, project, and wholesale orders.",
+    image: "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/product-card/card.webp",
+    gallery: [
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/detail-carousel/01-gap01hx-l3p4f1-1480x800-1.webp",
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/detail-carousel/02-gap01hx-l3p4f1-1600x1000-1.webp",
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/detail-carousel/03-chatgpt-image-2026-9-9-08-28-16.webp",
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/detail-carousel/04-gap01hx-l3p4f1-1240x800-1.webp",
+    ],
+    highlights: [
+      "Aluminum",
+      "120 x 40 x 180 cm",
+      "Carton",
+      "OEM & ODM support",
+    ],
+    applications: [
+      "Backyard & Garden",
+      "Residential",
+      "Public & Landscape",
+    ],
+    materials: [
+      "Aluminum",
+      "Galvanized Steel",
+    ],
+    customization: [
+      "Custom Size",
+      "Custom Color",
+      "Packaging",
+    ],
+    oemSupport: [
+      "Private Label",
+      "Packaging",
+      "Sample Development",
+    ],
+    cardModel: "GAP01HX-L3P4F1",
+    cardSize: "120 x 40 x 180 cm",
+    moq: "To be confirmed",
+    grossWeight: "",
+    netWeight: "",
+    packing: "Carton",
+    status: "published",
+    productDescription: [
+      [
+        "Item Number",
+        "GAP01HX-L3P4F1",
+      ],
+      [
+        "Product Name",
+        "Metal Privacy Screen Planter Box with Geometric Slat Panel",
+      ],
+      [
+        "Material",
+        "Aluminum / Galvanized Steel",
+      ],
+      [
+        "Overall Size",
+        "120 x 40 x 180 cm or Customized",
+      ],
+      [
+        "Color",
+        "Customized",
+      ],
+      [
+        "Packing",
+        "Carton",
+      ],
+      [
+        "MOQ",
+        "To be confirmed",
+      ],
+      [
+        "Gross Weight",
+        "To be confirmed",
+      ],
+      [
+        "Net Weight",
+        "To be confirmed",
+      ],
+      [
+        "CBM",
+        "To be confirmed",
+      ],
+    ],
+    faqs: [
+      [
+        "Can I customize the size?",
+        "Yes. Send us your required length, width, height or technical drawing, and we can prepare a custom privacy screen plan.",
+      ],
+      [
+        "Can I choose the color and finish?",
+        "Yes. Color, surface finish and product details can be selected according to your market needs.",
+      ],
+      [
+        "Do you support OEM packaging?",
+        "Yes. We can support neutral packing, branded labels, instruction sheets, cartons and retail packaging for bulk orders.",
+      ],
+      [
+        "What information is needed for quotation?",
+        "Please provide size, quantity, destination country, material preference, finish color and any reference image or drawing.",
+      ],
+      [
+        "Can you supply for project orders?",
+        "Yes. We support retail, residential and project supply with production coordination, packing and export delivery.",
+      ],
+    ],
+    relatedProducts: [
+      {
+        title: "Privacy Screen  GAP01HX-L3P4F1",
+        image: "/images/products/metal-privacy-screen/privacy-screen-gap01hx-l3p4f1/product-card/card.webp",
+        slug: "privacy-screen-gap01hx-l3p4f1",
+      },
+      {
+        title: "Privacy Screen GAP03D-L3F2",
+        image: "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/product-card/card.webp",
+        slug: "privacy-screen-gap03d-l3f2",
+      },
+      {
+        title: "Raised Garden Bed FC-C4C",
+        image: "/images/products/raised-garden-bed/raised-garden-bed-fc-c4c/product-card/card.webp",
+        slug: "raised-garden-bed-fc-c4c",
+      },
+    ],
+  },
 ];
