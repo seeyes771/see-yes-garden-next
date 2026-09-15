@@ -551,4 +551,132 @@ export const privacyScreenProducts: ProductItem[] = [
       },
     ],
   },
+{
+    slug: "metal-privacy-screen-planter-cabinet-horizontal-slat-panel",
+    title: "Metal Privacy Screen Planter Cabinet with Horizontal Slat Panel",
+    category: "Metal Privacy Screen",
+    template: "standard",
+    subtitle: "GAP04SN-L2 for outdoor projects and wholesale supply.",
+    description: "This metal privacy screen planter cabinet combines a wide planter box, horizontal slat privacy panel, and enclosed lower storage cabinet in one outdoor unit. It is designed for patios, balconies, terraces, courtyards, garden seating areas, and commercial landscape spaces where buyers need privacy, planting space, and practical storage. The planter section can hold flowers, greenery, or climbing plants, while the cabinet doors help keep garden tools, accessories, or outdoor supplies organized. Custom size, color, finish, and OEM packaging are available for wholesale, retail, and project orders.",
+    image: "/images/products/metal-privacy-screen/metal-privacy-screen-planter-cabinet-horizontal-slat-panel/product-card/card.webp",
+    gallery: [
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-cabinet-horizontal-slat-panel/detail-carousel/01-gap04sn-l2-1480x800-1.webp",
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-cabinet-horizontal-slat-panel/detail-carousel/02-gap04sn-l2-1600x1000-1.webp",
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-cabinet-horizontal-slat-panel/detail-carousel/03-chatgpt-image-2026-9-9-08-37-32.webp",
+      "/images/products/metal-privacy-screen/metal-privacy-screen-planter-cabinet-horizontal-slat-panel/detail-carousel/04-gap04sn-l2-1240x800-1.webp",
+    ],
+    highlights: [
+      "Aluminum",
+      "120 x 55 x 150 cm",
+      "Carton",
+      "OEM & ODM support",
+    ],
+    applications: [
+      "Backyard & Garden",
+      "Residential",
+      "Public & Landscape",
+    ],
+    materials: [
+      "Aluminum",
+      "Galvanized Steel",
+    ],
+    customization: [
+      "Custom Size",
+      "Custom Color",
+      "Packaging",
+    ],
+    oemSupport: [
+      "Private Label",
+      "Packaging",
+      "Sample Development",
+    ],
+    cardModel: "GAP04SN-L2",
+    cardSize: "120 x 55 x 150 cm",
+    moq: "To be confirmed",
+    grossWeight: "",
+    netWeight: "",
+    packing: "Carton",
+    status: "published",
+    productDescription: [
+      [
+        "Item Number",
+        "GAP04SN-L2",
+      ],
+      [
+        "Product Name",
+        "Metal Privacy Screen Planter Cabinet with Horizontal Slat Panel",
+      ],
+      [
+        "Material",
+        "Aluminum / Galvanized Steel",
+      ],
+      [
+        "Overall Size",
+        "120 x 55 x 150 cm or Customized",
+      ],
+      [
+        "Color",
+        "Customized",
+      ],
+      [
+        "Packing",
+        "Carton",
+      ],
+      [
+        "MOQ",
+        "To be confirmed",
+      ],
+      [
+        "Gross Weight",
+        "To be confirmed",
+      ],
+      [
+        "Net Weight",
+        "To be confirmed",
+      ],
+      [
+        "CBM",
+        "To be confirmed",
+      ],
+    ],
+    faqs: [
+      [
+        "Can I customize the size?",
+        "Yes. Send us your required length, width, height or technical drawing, and we can prepare a custom privacy screen planter cabinet plan.",
+      ],
+      [
+        "Can I choose the color and finish?",
+        "Yes. Color, surface finish and product details can be selected according to your market needs.",
+      ],
+      [
+        "Do you support OEM packaging?",
+        "Yes. We can support neutral packing, branded labels, instruction sheets, cartons and retail packaging for bulk orders.",
+      ],
+      [
+        "What information is needed for quotation?",
+        "Please provide size, quantity, destination country, material preference, finish color and any reference image or drawing.",
+      ],
+      [
+        "Can you supply for project orders?",
+        "Yes. We support retail, residential and project supply with production coordination, packing and export delivery.",
+      ],
+    ],
+    relatedProducts: [
+      {
+        title: "Privacy Screen  GAP01HX-L3P4F1",
+        image: "/images/products/metal-privacy-screen/privacy-screen-gap01hx-l3p4f1/product-card/card.webp",
+        slug: "privacy-screen-gap01hx-l3p4f1",
+      },
+      {
+        title: "Metal Privacy Screen Planter Box with Geometric Slat Panel",
+        image: "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/product-card/card.webp",
+        slug: "metal-privacy-screen-planter-box-geometric-slat-panel",
+      },
+      {
+        title: "Metal Privacy Screen Planter Box with Horizontal Slat Panel and Shelf",
+        image: "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-horizontal-slat-panel-shelf/product-card/card.webp",
+        slug: "metal-privacy-screen-planter-box-horizontal-slat-panel-shelf",
+      },
+    ],
+  },
 ];
