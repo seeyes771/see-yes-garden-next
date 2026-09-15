@@ -168,135 +168,6 @@ export const privacyScreenProducts: ProductItem[] = [
     ],
   },
 {
-    slug: "privacy-screen-gap03d-l3f2",
-    title: "Privacy Screen GAP03D-L3F2",
-    category: "Metal Privacy Screen",
-    template: "standard",
-    subtitle: "GAP03D-L3F2 for outdoor projects and wholesale supply.",
-    description: "Factory direct privacy screen solution for home gardens, retail channels and landscape projects, with options for size, color, panel style, carton packing and private label support.",
-    image: "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/product-card/card.webp",
-    gallery: [
-      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/01-ai-1.webp",
-      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/02-ai-2.webp",
-      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/03-ai-3.webp",
-      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/04-ai-4.webp",
-      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/05-ai-5.webp",
-    ],
-    highlights: [
-      "Galvanized Steel",
-      "120 x 500 x 180 cm",
-      "Carton",
-      "OEM & ODM support",
-    ],
-    applications: [
-      "Backyard & Garden",
-      "Residential",
-      "Public & Landscape",
-    ],
-    materials: [
-      "Galvanized Steel",
-    ],
-    customization: [
-      "Custom Size",
-      "Custom Color",
-      "Packaging",
-    ],
-    oemSupport: [
-      "Private Label",
-      "Packaging",
-      "Sample Development",
-    ],
-    cardModel: "GAP03D-L3F2",
-    cardSize: "120 x 500 x 180 cm",
-    cardCbm: "0.0720 m³",
-    moq: "100",
-    grossWeight: "8.5",
-    netWeight: "7.5",
-    packing: "Carton",
-    status: "published",
-    productDescription: [
-      [
-        "Item Number",
-        "GAP03D-L3F2",
-      ],
-      [
-        "Product Name",
-        "Privacy Screen GAP03D-L3F2",
-      ],
-      [
-        "Material",
-        "Aluminum / Galvanized Steel",
-      ],
-      [
-        "Overall Size",
-        "120 x 500 x 180 cm or Customized",
-      ],
-      [
-        "Color",
-        "Customized",
-      ],
-      [
-        "Packing",
-        "Carton",
-      ],
-      [
-        "MOQ",
-        "100",
-      ],
-      [
-        "Gross Weight",
-        "8.5 kg",
-      ],
-      [
-        "Net Weight",
-        "7.5 kg",
-      ],
-      [
-        "CBM",
-        "0.0720 m³",
-      ],
-    ],
-    faqs: [
-      [
-        "Can I customize the size?",
-        "Yes. Send us your required length, width, height or technical drawing, and we can prepare a custom privacy screen plan.",
-      ],
-      [
-        "Can I choose the color and finish?",
-        "Yes. Color, surface finish and product details can be selected according to your market needs.",
-      ],
-      [
-        "Do you support OEM packaging?",
-        "Yes. We can support neutral packing, branded labels, instruction sheets, cartons and retail packaging for bulk orders.",
-      ],
-      [
-        "What information is needed for quotation?",
-        "Please provide size, quantity, destination country, material preference, finish color and any reference image or drawing.",
-      ],
-      [
-        "Can you supply for project orders?",
-        "Yes. We support retail, residential and project supply with production coordination, packing and export delivery.",
-      ],
-    ],
-    relatedProducts: [
-      {
-        title: "Privacy Screen  GAP01HX-L3P4F1",
-        image: "/images/products/metal-privacy-screen/privacy-screen-gap01hx-l3p4f1/product-card/card.webp",
-        slug: "privacy-screen-gap01hx-l3p4f1",
-      },
-      {
-        title: "Privacy Screen  GAP01HX-L3P4F1",
-        image: "/images/products/metal-privacy-screen/privacy-screen-gap01hx-l3p4f1/product-card/card.webp",
-        slug: "privacy-screen-gap01hx-l3p4f1",
-      },
-      {
-        title: "Privacy Screen  GAP01HX-L3P4F1",
-        image: "/images/products/metal-privacy-screen/privacy-screen-gap01hx-l3p4f1/product-card/card.webp",
-        slug: "privacy-screen-gap01hx-l3p4f1",
-      },
-    ],
-  },
-{
     slug: "metal-privacy-screen-planter-box-geometric-slat-panel",
     title: "Metal Privacy Screen Planter Box with Geometric Slat Panel",
     category: "Metal Privacy Screen",
@@ -549,6 +420,134 @@ export const privacyScreenProducts: ProductItem[] = [
         title: "Metal Privacy Screen Planter Box with Geometric Slat Panel",
         image: "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/product-card/card.webp",
         slug: "metal-privacy-screen-planter-box-geometric-slat-panel",
+      },
+    ],
+  },
+{
+    slug: "privacy-screen-gap03d-l3f2",
+    title: "Decorative Metal Privacy Screen with Leaf Pattern Panel",
+    category: "Metal Privacy Screen",
+    template: "standard",
+    subtitle: "GAP03D-L3F2 for outdoor projects and wholesale supply.",
+    description: "This decorative metal privacy screen features a leaf-pattern laser-cut panel for outdoor patios, gardens, terraces, courtyards, and landscape projects. The freestanding screen helps create visual separation while keeping an open, airy look, making it suitable for residential gardens, hospitality spaces, commercial outdoor areas, and project installations. The sturdy metal frame and base support outdoor use, while the pattern, size, color, and surface finish can be customized for wholesale, retail, and OEM project supply.",
+    image: "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/product-card/card.webp",
+    gallery: [
+      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/01-gap03d-l3f2-1480x800-1.webp",
+      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/02-gap03d-l3f2-1600x1000-1.webp",
+      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/03-chatgpt-image-2026-9-9-08-36-13.webp",
+      "/images/products/metal-privacy-screen/privacy-screen-gap03d-l3f2/detail-carousel/04-gap03d-l3f2-1240x800-1.webp",
+    ],
+    highlights: [
+      "Aluminum",
+      "120 x 40 x 180 cm",
+      "Carton",
+      "OEM & ODM support",
+    ],
+    applications: [
+      "Backyard & Garden",
+      "Residential",
+      "Public & Landscape",
+    ],
+    materials: [
+      "Aluminum",
+      "Galvanized Steel",
+    ],
+    customization: [
+      "Custom Size",
+      "Custom Color",
+      "Packaging",
+    ],
+    oemSupport: [
+      "Private Label",
+      "Packaging",
+      "Sample Development",
+    ],
+    cardModel: "GAP03D-L3F2",
+    cardSize: "120 x 40 x 180 cm",
+    moq: "100",
+    grossWeight: "8.5",
+    netWeight: "7.5",
+    packing: "Carton",
+    status: "published",
+    productDescription: [
+      [
+        "Item Number",
+        "GAP03D-L3F2",
+      ],
+      [
+        "Product Name",
+        "Decorative Metal Privacy Screen with Leaf Pattern Panel",
+      ],
+      [
+        "Material",
+        "Aluminum / Galvanized Steel",
+      ],
+      [
+        "Overall Size",
+        "120 x 40 x 180 cm or Customized",
+      ],
+      [
+        "Color",
+        "Customized",
+      ],
+      [
+        "Packing",
+        "Carton",
+      ],
+      [
+        "MOQ",
+        "100",
+      ],
+      [
+        "Gross Weight",
+        "8.5 kg",
+      ],
+      [
+        "Net Weight",
+        "7.5 kg",
+      ],
+      [
+        "CBM",
+        "To be confirmed",
+      ],
+    ],
+    faqs: [
+      [
+        "Can I customize the size?",
+        "Yes. Send us your required length, width, height or technical drawing, and we can prepare a custom privacy screen plan.",
+      ],
+      [
+        "Can I choose the pattern, color and finish?",
+        "Yes. Pattern style, color, surface finish and product details can be selected according to your market needs.",
+      ],
+      [
+        "Do you support OEM packaging?",
+        "Yes. We can support neutral packing, branded labels, instruction sheets, cartons and retail packaging for bulk orders.",
+      ],
+      [
+        "What information is needed for quotation?",
+        "Please provide size, quantity, destination country, material preference, finish color and any reference image or drawing.",
+      ],
+      [
+        "Can you supply for project orders?",
+        "Yes. We support retail, residential and landscape project supply with production coordination, packing and export delivery.",
+      ],
+    ],
+    relatedProducts: [
+      {
+        title: "Privacy Screen  GAP01HX-L3P4F1",
+        image: "/images/products/metal-privacy-screen/privacy-screen-gap01hx-l3p4f1/product-card/card.webp",
+        slug: "privacy-screen-gap01hx-l3p4f1",
+      },
+      {
+        title: "Metal Privacy Screen Planter Box with Geometric Slat Panel",
+        image: "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-geometric-slat-panel/product-card/card.webp",
+        slug: "metal-privacy-screen-planter-box-geometric-slat-panel",
+      },
+      {
+        title: "Metal Privacy Screen Planter Box with Horizontal Slat Panel and Shelf",
+        image: "/images/products/metal-privacy-screen/metal-privacy-screen-planter-box-horizontal-slat-panel-shelf/product-card/card.webp",
+        slug: "metal-privacy-screen-planter-box-horizontal-slat-panel-shelf",
       },
     ],
   },
